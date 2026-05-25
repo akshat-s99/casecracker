@@ -17,6 +17,10 @@ The project is already pushed to GitHub at:
 
 - https://github.com/akshat-s99/casecracker
 
+The expected GitHub Pages URL is:
+
+- https://akshat-s99.github.io/casecracker/
+
 ### GitHub Pages
 
 To serve the app from GitHub Pages:
